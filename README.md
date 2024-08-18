@@ -1,0 +1,1 @@
+This file helps you in understanding PCA mathematical intuition and helps you to understand how we use PCA and for what we use PCA in the real world.
